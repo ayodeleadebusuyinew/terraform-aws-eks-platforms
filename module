@@ -1,0 +1,21 @@
+modules/
+├─ vpc/
+│  ├─ main.tf
+│  ├─ variables.tf
+│  ├─ outputs.tf
+│  └─ README.md
+├─ eks/
+│  ├─ main.tf
+│  ├─ variables.tf
+│  ├─ outputs.tf
+│  └─ README.md
+├─ irsa/
+│  ├─ main.tf
+│  ├─ variables.tf
+│  ├─ outputs.tf
+│  └─ README.md
+└─ addons/
+   ├─ main.tf
+   ├─ variables.tf
+   ├─ outputs.tf
+   └─ README.md
